@@ -23,13 +23,13 @@
 
 [info页面](https://info.uniswap.org/)
 
-### Arbitrum
+### Arbitrum (L2)
 
 [bridge](https://bridge.arbitrum.io/)
 
 [区块浏览器](https://arbiscan.io/)
 
-### Optimism
+### Optimism (L2)
 
 [bridge](https://gateway.optimism.io/)
 
