@@ -50,7 +50,7 @@
 
 建议使用电脑版，比较方便看清楚投放的屏幕直播画面和操作。
 
-腾讯会议官方下载地址：https://meeting.tencent.com/download-center.html
+[腾讯会议官方下载地址](https://meeting.tencent.com/download-center.html)
 
 2. 科学上网（脱敏）
 
@@ -58,7 +58,7 @@
 
 谷歌浏览器有翻译网页的功能。方便英文不好的同学学习。
 
-官方下载：https://www.google.com/chrome/ （需科学上网）
+[官方下载](https://www.google.com/chrome/) （可能需科学上网）
 
 或者用搜索引擎搜索chrome浏览器，到可靠的第三方服务下载站下载并安装。
 但是，从非官方处下载软件一定要小心木马和病毒的植入捆绑！
@@ -67,7 +67,7 @@
 
 这个比特币钱包软件是我们上课要用到的，正常上网就可以访问它的官网，请务必从官网下载。
 
-官方下载：https://electrum.org/#download
+[官方下载](https://electrum.org/#download)
 
 千万不要下载其他地方提供的钱包软件。分分钟就盗走你的资产。
 
@@ -91,9 +91,9 @@
 
 4. Watch-only钱包（可选）
 
-苹果手机可以安装 Bitcoin address viewer (https://apps.apple.com/us/app/bitcoin-address-viewer/id1128196005 )。
+苹果手机可以安装 [Bitcoin address viewer])(https://apps.apple.com/us/app/bitcoin-address-viewer/id1128196005)。
 
-安卓手机可以安装 Bitcoin Balance Checker (https://play.google.com/store/apps/details?id=com.bitcoinbalancechecker )。
+安卓手机可以安装 [Bitcoin Balance Checker](https://play.google.com/store/apps/details?id=com.bitcoinbalancechecker)。
 
 5. 手机版钱包App（可选）
 
@@ -109,31 +109,31 @@
 
 1. 比特币地址生成器
 
-https://bitaddress.org （中英）
+[bitaddress.org](https://bitaddress.org) （中英）
 
 2. 比特币区块链在线查看工具
 
-https://mempool.space/ （中英）
+[mempool.space](https://mempool.space/) （中英）
 
-https://blockstream.info/ （中英）
+[blockstream](https://blockstream.info/) （中英）
 
 3. 比特币公私钥计算在线工具
 
-https://brainwalletx.github.io/ （英文）
+[链接](https://brainwalletx.github.io/) （英文）
 
 4. 密码学在线工具（可选）
 
-椭圆曲线在线演示工具：https://www.desmos.com/calculator/ialhd71we3 （英文）
+[椭圆曲线在线演示工具](https://www.desmos.com/calculator/ialhd71we3) （英文）
 
-哈希计算在线工具：http://www.fileformat.info/tool/hash.htm （英文）
+[哈希计算在线工具](http://www.fileformat.info/tool/hash.htm) （英文）
 
 5. 比特币全账本节点全球分布实时地图
 
-https://bitnodes.earn.com/ （英文）
+[链接](https://bitnodes.earn.com/) （英文）
 
 6. Ordinal查看【选修】
 
-https://ordiscan.com/
+[链接](https://ordiscan.com/)
 
 ## 课前预习
 
