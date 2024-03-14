@@ -35,6 +35,12 @@
 
 [区块浏览器](https://optimistic.etherscan.io/)
 
+### Polygon (侧链)
+
+[Polygon Token Bridge](https://wallet.polygon.technology/bridge/)
+
+[区块浏览器](https://polygonscan.com/)
+
 ## 课前预习
 
 ### 选读材料
