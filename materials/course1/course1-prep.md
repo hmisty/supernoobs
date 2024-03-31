@@ -130,7 +130,7 @@
 
 5. 比特币全账本节点全球分布实时地图
 
-[链接](https://bitnodes.earn.com/) （英文）
+[链接](https://bitnodes.io/) （英文）
 
 6. Ordinal查看【选修】
 
