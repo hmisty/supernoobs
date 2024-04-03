@@ -92,7 +92,7 @@
 
 4. Watch-only钱包（可选）
 
-苹果手机可以安装 [Bitcoin address viewer])(https://apps.apple.com/us/app/bitcoin-address-viewer/id1128196005)。
+苹果手机可以安装 [Bitcoin address viewer](https://apps.apple.com/us/app/bitcoin-address-viewer/id1128196005)。
 
 安卓手机可以安装 [Bitcoin Balance Checker](https://play.google.com/store/apps/details?id=com.bitcoinbalancechecker)。
 
