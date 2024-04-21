@@ -99,6 +99,8 @@ Trezor是捷克（Czech Republic）品牌。
 
 [衍生路径标准BIP-44](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 
+[助记词工具（在线，英文）](https://iancoleman.io/bip39/)
+
 2. ERC-20标准
 
 [同质化代币标准ERC-20](https://eips.ethereum.org/EIPS/eip-20)
