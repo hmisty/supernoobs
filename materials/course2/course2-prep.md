@@ -29,9 +29,19 @@
 
 ## Metamask小狐狸插件钱包
 
-[对于谷歌Chrome浏览器，到官方应用商店安装](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+[对于谷歌Chrome浏览器，到官方应用商店安装](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) 或者尝试 [Metamask官方github提供的安装包v12.0.1](https://github.com/MetaMask/metamask-extension/releases/download/v12.0.1/metamask-chrome-12.0.1.zip)。
 
-[对于火狐Firefox浏览器，到官方应用商店安装](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/)
+[对于火狐Firefox浏览器，到官方应用商店安装](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/) 或者尝试 [Metamask官方github提供的安装包v12.0.1](https://github.com/MetaMask/metamask-extension/releases/download/v12.0.1/metamask-firefox-12.0.1.zip)。
+
+警告：千万不要在其他第三方下载站上随意下载Metamask插件进行安装！一旦被植入木马，分分钟偷走你的助记词/私钥和全部资产！
+
+## Metamask手机版
+
+苹果手机，请切换海外apple id，到[官方App Store搜索metamask安装](https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202) 。
+
+安卓手机，请尝试 [Google Play商店中的metamask](https://play.google.com/store/apps/details?id=io.metamask&hl=en) 或者直接下载安装 [Metamask官方github提供的apk安装包v7.27.0](https://github.com/MetaMask/metamask-mobile/releases/download/v7.27.0/app-prod-release.apk) 。
+
+警告：千万不要在其他第三方下载站上随意下载Metamask安装包进行安装！一旦被植入木马，分分钟偷走你的助记词/私钥和全部资产！
 
 ## 硬件钱包（可选）
 
@@ -95,6 +105,8 @@ RPC：https://rpc.liujiaolian.com:8503
 代币符号：J
 区块浏览器：https://jscan.liujiaolian.com
 ```
+
+了解更多关于Jouleverse的知识，请阅读[《Jouleverse(焦耳宇宙)漫游指南》](https://how.jouleverse.com/#!contribute/how-to-ramp-up.md)。
 
 ## 课前预习
 
