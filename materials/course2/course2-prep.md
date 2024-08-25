@@ -9,7 +9,7 @@
 
 为了确保上课高效，不卡壳，请各位同学提前做好下述准备工作：
 
-## 第1课的课前准备工作
+## 第2课的课前准备工作
 
 首先请先确保第1课的课前准备工作都已经做好。尤其是科学上网、交易所等。
 
@@ -93,7 +93,7 @@ Trezor是捷克（Czech Republic）品牌。
 
 [rarible](https://rarible.com/)
 
-6. Jouleverse区块链浏览器（可选）（EMV兼容链，免费练习区块链操作）
+6. Jouleverse区块链浏览器（可选）（EVM兼容链，免费练习区块链操作）
 
 [jscan.liujiaolian.com](https://jscan.liujiaolian.com)
 
