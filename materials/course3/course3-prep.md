@@ -29,11 +29,59 @@
 
 [区块浏览器](https://arbiscan.io/)
 
+网络参数：
+
+arbitrum官方部署的接入点
+```
+网络名称: Arbitrum One
+网络URL: https://arb1.arbitrum.io/rpc
+链ID: 42161
+代币符号: ETH
+区块链浏览器: https://arbiscan.io
+```
+
+infura部署的接入点
+```
+网络名称: Arbitrum One
+网络URL: https://arbitrum-mainnet.infura.io
+链ID: 42161
+代币符号: ETH
+区块链浏览器: https://explorer.arbitrum.io
+```
+
 ### Optimism (L2)
 
 [bridge](https://gateway.optimism.io/)
 
 [区块浏览器](https://optimistic.etherscan.io/)
+
+### Jouleverse (侧链)
+
+[区块链浏览器(jnsdao部署)](https://jscan.jnsdao.com)
+
+[区块链浏览器(教链部署)](https://jscan.liujiaolian.com)
+
+=> [Jouleverse区块链浏览器源代码](https://github.com/jouleverse/explorer)，可自行部署
+
+网络参数：
+
+jnsdao部署的接入点
+```
+网络名称: Jouleverse
+网络URL: https://rpc.jnsdao.com:8503
+链ID: 3666
+代币符号: J
+区块链浏览器: https://jscan.jnsdao.com
+```
+
+或使用教链部署的镜像
+```
+网络名称: Jouleverse
+网络URL: https://rpc.liujiaolian.com:8503
+链ID: 3666
+代币符号: J
+区块链浏览器: https://jscan.liujiaolian.com
+```
 
 ### Polygon (侧链)
 
