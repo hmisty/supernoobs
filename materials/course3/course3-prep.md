@@ -65,7 +65,7 @@ infura部署的接入点
 
 网络参数：
 
-jnsdao部署的接入点
+jnsdao提供的接入点
 ```
 网络名称: Jouleverse
 网络URL: https://rpc.jnsdao.com:8503
@@ -74,7 +74,7 @@ jnsdao部署的接入点
 区块链浏览器: https://jscan.jnsdao.com
 ```
 
-或使用教链部署的镜像
+或使用教链提供的镜像
 ```
 网络名称: Jouleverse
 网络URL: https://rpc.liujiaolian.com:8503
