@@ -49,6 +49,15 @@ infura部署的接入点
 区块链浏览器: https://explorer.arbitrum.io
 ```
 
+常用资产地址：
+
+```
+WETH合约地址: 0x82aF49447D8a07e3bd95BD0d56f35241523fBab1
+USDT合约地址: 0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9
+USDC合约地址: 0xaf88d065e77c8cC2239327C5EDb3A432268e5831
+UNI合约地址: 0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0
+```
+
 ### Optimism (L2)
 
 [bridge](https://gateway.optimism.io/)
@@ -81,6 +90,12 @@ jnsdao提供的接入点
 链ID: 3666
 代币符号: J
 区块链浏览器: https://jscan.liujiaolian.com
+```
+
+常用资产地址：
+
+```
+WJ合约地址: 0x7fba9BB966189Db8C4fE33B7bf67Bfa24203c6AD
 ```
 
 ### Polygon (侧链)
