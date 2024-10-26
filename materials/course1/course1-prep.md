@@ -5,7 +5,7 @@
 注意：本材料仅供本课学员自行使用，请勿扩散传播！
 ~~~
 
-超级小白课的第1课是比特币冷钱包技术操作。
+超级小白课的第1课是比特币冷钱包技术操作 - 冷钱包制作和存入BTC相关操作。
 
 为了确保上课高效，不卡壳，请各位同学提前做好下述准备工作：
 
@@ -197,4 +197,8 @@
 6. 《上帝掷骰子：比特币史话》刘教链著
 
 [购买链接](https://leanpub.com/history-of-bitcoin)
+
+7. Bitcoin security
+
+[《精通比特币》第10章](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/ch10.html)
 
