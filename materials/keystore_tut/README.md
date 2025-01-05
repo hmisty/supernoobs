@@ -1,5 +1,7 @@
 # 如何生成keystore并导入Metamask使用
 
+<b>注意：课前填表只需要第一步生成keystore获得web3地址（链地址）用于填写登记表就可以了。不需要做后续的导入MetaMask等步骤（上课会具体再讲）。</b>
+
 ## 什么是keystore？
 
 keystore是一种web3地址及其加密私钥的存储格式，由以太坊项目最早提出。
