@@ -17,11 +17,38 @@
 
 请检查自己电脑浏览器上是否可以打开下述网站，并在上课前提前打开备用。
 
+### EVM兼容链数据库
+
+[chainlist](https://chainlist.org)
+
 ### Uniswap
 
 [swap页面](https://app.uniswap.org/)
 
 [info页面](https://info.uniswap.org/)
+
+### Unichain (L2)
+
+[区块浏览器](https://uniscan.xyz/)
+
+网络参数：
+
+unichain官方部署的接入点：
+```
+网络名称: Unichain
+网络URL: https://mainnet.unichain.org
+链ID: 130
+代币符号: ETH
+区块链浏览器: https://uniscan.xyz
+```
+
+常用资产地址：
+
+```
+USDC合约地址: 0x078D782b760474a361dDA0AF3839290b0EF57AD6
+USDT0合约地址: 0x9151434b16b9763660705744891fA906F660EcC5
+UNI合约地址: 0x8f187aA05619a017077f5308904739877ce9eA21
+```
 
 ### Arbitrum (L2)
 
@@ -96,6 +123,7 @@ jnsdao提供的接入点
 
 ```
 WJ合约地址: 0x7fba9BB966189Db8C4fE33B7bf67Bfa24203c6AD
+CJ NFT合约地址：0x1b1d15726d64c5027b627138f2bf051cc1EF2680
 ```
 
 ### Polygon (侧链)

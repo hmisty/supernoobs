@@ -97,14 +97,7 @@ Trezor是捷克（Czech Republic）品牌。
 
 [jscan.liujiaolian.com](https://jscan.liujiaolian.com)
 
-```
-手动添加网络：
-网络名称：Jouleverse
-RPC：https://rpc.liujiaolian.com:8503
-链ID：3666
-代币符号：J
-区块浏览器：https://jscan.liujiaolian.com
-```
+网络参数请参见[第4次课的预习材料](../course4/course4-prep.md)。
 
 了解更多关于Jouleverse的知识，请阅读[《Jouleverse(焦耳宇宙)漫游指南》](https://how.jouleverse.com/#!contribute/how-to-ramp-up.md)。
 
