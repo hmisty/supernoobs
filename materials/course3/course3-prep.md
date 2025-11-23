@@ -77,7 +77,7 @@ Trezor是捷克（Czech Republic）品牌。
 
 2. 以太坊gas数据
 
-[链接](https://www.oklink.com/en/eth/gas-price/avg)
+[链接](https://www.ethgastracker.com/)
 
 3. 以太坊gas费花费统计
 
